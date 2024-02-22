@@ -1,4 +1,5 @@
 def up_letters(string):
+    """Возвращает строку заглавных букв"""
     return string.upper()
 
 
